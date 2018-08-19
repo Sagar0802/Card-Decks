@@ -1,0 +1,10 @@
+.sticky-top{
+    background:#e9ecef;
+}
+.card{
+    border: .08em solid black;
+    display: inline-block;
+    border-radius: 1px;
+    margin: 2px;
+    
+}
